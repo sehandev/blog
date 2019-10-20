@@ -197,4 +197,4 @@ canonifyurls = true
 
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   [params.footer]
-    copyright = "<span class=\"copyrights\">&copy; 2019 Sehan. All Rights Reserved</span>"
+    copyright = "<a href=\"https://github.com/sehandev\">SEHAN</a>"
