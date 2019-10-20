@@ -32,7 +32,7 @@ canonifyurls = true
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   # picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
-  picture = "https://lh3.googleusercontent.com/zGivsjtwtZgrb34DynHtbbB_j20Mq7meIvYdO3IBEEDTzlrhApvEjcr0ApryPgh1T8O4P6uoOPTMCnemHfv4bJCbjiywJ4uX2LcdO4h6RbwBh0hs9ufJE8CZZpM8Bo7H9iMB05kS=w275-h249-no"
+  picture = "https://lh3.googleusercontent.com/q89HlCp4JIWjVyYFIhyhU5XN4wZ70BUfm6ibzPKrIA6IWdNoeV3efdR9qBh3GO6MbEfYpAzOmubJjM-pfX5vbveATcwx5kHMVdwntFj0kAd5oyWhYx4lbiTVHuvbbM3fjwIFi4vH=w2400"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
