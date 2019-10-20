@@ -1,4 +1,4 @@
 baseURL = "https://sehandev.github.io/"
 languageCode = "ko-kr"
 title = "SEHAN"
-theme = "paper"
+theme = "tranquilpeak"
