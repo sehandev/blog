@@ -104,7 +104,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "??? what is description?"
+  description = "Tech blog by sehan kim"
 
   # Customization
   # Define the behavior of the sidebar
