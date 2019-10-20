@@ -23,15 +23,16 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Sehan Kim"
-  bio = "Super bio with markdown support **COOL**"
+  name = "Sungdon Kim"
+  bio = "Hongik Univ. Machine Learning Programmer"
   job = "Programmer"
-  location = "Korea"
+  location = "Seoul, Korea"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "sehandev@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  # picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  picture = "https://lh3.googleusercontent.com/zGivsjtwtZgrb34DynHtbbB_j20Mq7meIvYdO3IBEEDTzlrhApvEjcr0ApryPgh1T8O4P6uoOPTMCnemHfv4bJCbjiywJ4uX2LcdO4h6RbwBh0hs9ufJE8CZZpM8Bo7H9iMB05kS=w275-h249-no"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -87,7 +88,7 @@ canonifyurls = true
   # You must use date format used by Go Time package https://golang.org/pkg/time/
   # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
   # Default format is: January 2, 2006
-  dateFormat = "2016 January 2일"
+  dateFormat = "January 2일, 2006"
 
   # Global keywords configuration. Following keywords will be add to every pages
   # keywords = ["development", "next-gen"]
@@ -97,7 +98,7 @@ canonifyurls = true
   syntaxHighlighter = "highlight.js"
 
   # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
-  clearReading = true
+  clearReading = false
 
   # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo".
   # If false it will flat categories.
