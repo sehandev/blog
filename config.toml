@@ -1,17 +1,10 @@
-
-# If you want to store images yourself, please read this guidelines:
-# For users, if you only use this theme, put your images directly in `source/assets/images` folder
-# But if you want to add local images, you can put your images directly in `source/assets/images` folder
-# For developpers, if you modify this theme, put your images in `source/images` folder and
-# use grunt task `build` to synchronize assets
-
 baseURL = "https://sehandev.github.io/"
 languageCode = "ko-kr"
 defaultContentLanguage = "ko-kr"
 title = "SEHAN"
 theme = "tranquilpeak"
 # googleAnalytics = "UA-123-45"
-paginate = 7
+paginate = 5
 canonifyurls = true
 
 [permalinks]
@@ -150,9 +143,9 @@ canonifyurls = true
   # The link at the right of the header is customizable
   # You can add a link (as an icon) at the right of the header instead of the author's gravatar image or author's picture.
   # By default, author's gravatar or author's picture is displayed.
-  #     url: /#search
-  #     icon: search
-  #     class: st-search-show-outputs
+      # url: /#search
+      # icon: search
+      # class: st-search-show-outputs
 
   # Display `Next` on left side of the pagination, and `Prev` on right side one.
   # If you set this value to `true`, these positions swap.
