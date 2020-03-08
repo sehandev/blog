@@ -21,11 +21,11 @@ canonifyurls = true
   job = "Programmer"
   location = "Seoul, Korea"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  # gravatarEmail = "sehandev@gmail.com"
+  gravatarEmail = "sehandev@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   # picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
-  picture = "https://lh3.googleusercontent.com/q89HlCp4JIWjVyYFIhyhU5XN4wZ70BUfm6ibzPKrIA6IWdNoeV3efdR9qBh3GO6MbEfYpAzOmubJjM-pfX5vbveATcwx5kHMVdwntFj0kAd5oyWhYx4lbiTVHuvbbM3fjwIFi4vH=w2400"
+  picture = "https://lh3.googleusercontent  .com/q89HlCp4JIWjVyYFIhyhU5XN4wZ70BUfm6ibzPKrIA6IWdNoeV3efdR9qBh3GO6MbEfYpAzOmubJjM-pfX5vbveATcwx5kHMVdwntFj0kAd5oyWhYx4lbiTVHuvbbM3fjwIFi4vH=w2400"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
