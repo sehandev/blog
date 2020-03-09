@@ -6,7 +6,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 hugo -t tranquilpeak-sehan
 
 # Go To Public folder
-cd public
+cd sehandev.github.io
 # Add changes to git.
 git add .
 

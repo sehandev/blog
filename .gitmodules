@@ -2,9 +2,6 @@
 	path = public
 	url = https://github.com/sehandev/sehandev.github.io.git
 	branch = master
-[submodule "themes/tranquilpeak"]
-	path = themes/tranquilpeak
-	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
 [submodule "sehandev.github.io"]
 	path = sehandev.github.io
 	url = https://github.com/sehandev/sehandev.github.io.git
