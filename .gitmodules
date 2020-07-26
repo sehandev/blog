@@ -1,7 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/sehandev/sehandev.github.io.git
-	branch = master
-[submodule "sehandev.github.io"]
-	path = sehandev.github.io
-	url = https://github.com/sehandev/sehandev.github.io.git
